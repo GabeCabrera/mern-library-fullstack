@@ -1,0 +1,13 @@
+.book {
+  padding: 0;
+  margin: 0;
+}
+
+.book-title {
+  font-weight: 500;
+}
+
+.book-desc {
+  font-weight: 300;
+}
+
