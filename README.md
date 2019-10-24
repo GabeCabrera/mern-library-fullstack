@@ -1,6 +1,6 @@
 # MERN Library Application.
 
-This is a proof of concept.
+This is a proof of concept for a fullstack application using MongoDB.<br />
 This application uses a Mongo database hosted on the server side, and a Create-React-App front-end on the client side.
 
 ## To run this app you need:
